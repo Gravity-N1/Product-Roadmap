@@ -1,19 +1,22 @@
 There have some questions about this part
 1、BACKGROUND
-safety-our product like automobile,we should make sure it's 100% safety when working.
-frequency-consider the frequency that we used whether will inference frequency that airport using
-space-because the limit of UWB technology, so we should consider some technology like Ad hoc network when our product were used in big space.
-value-show our product value for a specific application scenario.
-emergency stop-make sure the can be immediate stop
-2、STEP 1
+(*)safety-our product like automobile,we should make sure it's 100% safety when working.
+(+)frequency-consider the frequency that we used whether will inference frequency that airport using
+(+*)space-because the limit of UWB technology, so we should consider some technology like Ad hoc network when our product were used in big space.
+(*)value-show our product value for a specific application scenario.
+(*)emergency stop-make sure the can be immediate stop
+
+
+2、Part 1
 install suitable environment on raspberry4, 
-make sure that raspberry and car(mini scott) can be communication
-main in-charge---LF SFF ZC
-3、STEP 2
+make sure that raspberry and car(mini AGV) can be communication
+(+)Establish the environment for MINI AGV motion in PC
+main in-charge---ZC（LF SFF） 
+3、Part 2
 successfuly debugging UWB system
 make sure that car、raspberry ＆ UWB can be communication
-main in-charge---ZC ZZC SFF　LH
-4、STEP 3
+main in-charge---FZC
+4、Part 3
 RGBD camera debugging 
 make sure that raspberry、camera and UWB can be communication
-main in-charge---ZC SFF　LB　ZJH　LH
+main in-charge---LB (Zhang jiahao)
